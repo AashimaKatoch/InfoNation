@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InfoNation</string>
+    <string name="hello">Hello</string>
+    <string name="folks">,Folks</string>
+    <string name="covid_statistic">Covid Statistic</string>
+
+</resources>

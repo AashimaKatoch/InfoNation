@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Aashima Katoch/AndroidStudioProjects/InfoNation/app/src/main/res/drawable/circle_darkblue.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/Aashima Katoch/AndroidStudioProjects/InfoNation/app/src/main/res/drawable/circle_green.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/Aashima Katoch/AndroidStudioProjects/InfoNation/app/src/main/res/drawable/circle_pink.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/Aashima Katoch/AndroidStudioProjects/InfoNation/app/src/main/res/drawable/header_background.xml" value="0.175" />
+        <entry key="..\:/Users/Aashima Katoch/AndroidStudioProjects/InfoNation/app/src/main/res/drawable/shapecircle_orange.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/Aashima Katoch/AndroidStudioProjects/InfoNation/app/src/main/res/drawable/white_rectangle_background.xml" value="0.175" />
+        <entry key="..\:/Users/Aashima Katoch/AndroidStudioProjects/InfoNation/app/src/main/res/layout/activity_main.xml" value="0.1425925925925926" />
+        <entry key="..\:/Users/Aashima Katoch/AndroidStudioProjects/InfoNation/app/src/main/res/layout/activity_statistic.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Aashima Katoch/AndroidStudioProjects/InfoNation/app/src/main/res/layout/activity_statistics.xml" value="0.22" />
+        <entry key="..\:/Users/Aashima Katoch/AndroidStudioProjects/InfoNation/app/src/main/res/layout/activity_web_view.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/Aashima Katoch/AndroidStudioProjects/InfoNation/app/src/main/res/layout/covid_main.xml" value="0.22" />
+        <entry key="..\:/Users/Aashima Katoch/AndroidStudioProjects/InfoNation/app/src/main/res/layout/dashboard_main.xml" value="0.22" />
+        <entry key="..\:/Users/Aashima Katoch/AndroidStudioProjects/InfoNation/app/src/main/res/layout/entertainmentfragment.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Aashima Katoch/AndroidStudioProjects/InfoNation/app/src/main/res/layout/front_main.xml" value="0.22" />
+        <entry key="..\:/Users/Aashima Katoch/AndroidStudioProjects/InfoNation/app/src/main/res/layout/healthfragment.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Aashima Katoch/AndroidStudioProjects/InfoNation/app/src/main/res/layout/homefragment.xml" value="0.1" />
+        <entry key="..\:/Users/Aashima Katoch/AndroidStudioProjects/InfoNation/app/src/main/res/layout/layout_item.xml" value="0.3021653543307087" />
+        <entry key="..\:/Users/Aashima Katoch/AndroidStudioProjects/InfoNation/app/src/main/res/layout/sciencefragment.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Aashima Katoch/AndroidStudioProjects/InfoNation/app/src/main/res/layout/sportsfragment.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Aashima Katoch/AndroidStudioProjects/InfoNation/app/src/main/res/layout/technologyfragment.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
